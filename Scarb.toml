@@ -1,0 +1,14 @@
+[package]
+name = "starkvault"
+version = "0.1.0"
+edition = "2023_10"
+description = "A StarkNet contract for minting and verifying document authenticity"
+
+[dependencies]
+starknet = "2.12.2"
+
+[dev-dependencies]
+cairo_test = "2.12.2"
+
+[tool.snforge]
+# Optional: enable for Starknet testing in future

@@ -1,0 +1,6 @@
+starkvault_keystore.json
+starkvault_account
+__pycache__/
+target/
+.DS_Store
+
